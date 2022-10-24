@@ -1,3 +1,1 @@
 # Task Manager Node Application
-
-...
